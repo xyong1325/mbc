@@ -1,2 +1,1 @@
-# mbc
-mbc
+# spring-cloud-mbc 
